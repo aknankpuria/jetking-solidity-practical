@@ -1,0 +1,13 @@
+Q1-> What happens if we don’t have Smart Contracts?  
+
+ANS ->  Smart Contracts are the fundamental for defining digital rules . If there are no smart Contracts than there would be no decenterlized apps. There would be no interactions between 
+       participants in trustless manner. Furthermore , without smart contracts we would not have any mean to implement the logic  and rules for any any  blockchain based functionalities . 
+       we wouldn't have anything decenterlized.
+
+       in addtion to that everything will manual processed like transactions etc . there would be always a governing body . there would be intermediaries  .  Trust between parties could be 
+       easily broken . because contarcts offer cyptographic proof of execution and important feature of immutabillity . 
+
+       There would be no deFI , no NFTs and no any DAOs .
+
+       cross border payments will be difficult . cypto enables cross border payments within few clicks.
+       
