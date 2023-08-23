@@ -1,0 +1,13 @@
+ Q2 -> Write a Smart Contract for understanding Iterative Statements in Solidity Programming Language.
+
+ ANS -> Iterative Statements are also reffered as a LOOPING Statements .
+         
+         In Solidity we have the main four loops .
+         1 -> for ( ){  }        [for loop ]
+         2 -> while ( ) {  }     [while loop]
+         3 -> do { } while( )     [do while loop ]
+         4 -> for each (){ }      [ for each loop ]
+
+
+
+         #further coding example and coding explanaion is included in  ` Q2.Sol ` file
