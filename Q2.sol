@@ -16,4 +16,40 @@ for ( uint256 i = 0 ; i<till ; i++ ){
 }
 return sum; 
 }
+
+
+
+//while loop 
+
+function whileLoop(uint256 till) public pure returns(uint256){
+
+    uint256 sum = 0;
+    
+    while (till>0){
+
+        sum = sum+till;
+        till -- ; 
+    }
+ 
+  return sum;
+    
+}
+
+
+// do - while loop 
+
+ function fact ( uint256 n ) public pure returns (uint256) {
+
+   uint res = 1;
+   uint i =1;
+     
+      do {
+
+        res *= i ;
+        i++;
+      }while ( i <=n);
+      return res;
+
+ }
+
 }
