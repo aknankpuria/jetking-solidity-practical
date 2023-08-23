@@ -52,4 +52,19 @@ function whileLoop(uint256 till) public pure returns(uint256){
 
  }
 
+ //for eaach loop 
+
+ function sumA (uint256[] calldata num ) public pure returns(uint256){
+
+    uint256 sum = 0;
+
+    for (uint i = 0 ; i< num.length; i++ ){
+
+        sum+=num[i];
+    }
+    return sum;
+
+
+ }
+
 }

@@ -1,0 +1,5 @@
+Q3 ->  Write a Smart Contract for understanding Error Handling in
+       Solidity Programming Language.
+
+
+ans -> it is explained in Q3.sol
